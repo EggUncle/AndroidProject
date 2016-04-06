@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/cliptest/cliptest.iml" filepath="$PROJECT_DIR$/cliptest/cliptest.iml" />
       <module fileurl="file://$PROJECT_DIR$/mymusicplayer/mymusicplayer.iml" filepath="$PROJECT_DIR$/mymusicplayer/mymusicplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/mynotificationtest/mynotificationtest.iml" filepath="$PROJECT_DIR$/mynotificationtest/mynotificationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshaketest/myshaketest.iml" filepath="$PROJECT_DIR$/myshaketest/myshaketest.iml" />
       <module fileurl="file://$PROJECT_DIR$/setaction1/setaction1.iml" filepath="$PROJECT_DIR$/setaction1/setaction1.iml" />
       <module fileurl="file://$PROJECT_DIR$/setaction2/setaction2.iml" filepath="$PROJECT_DIR$/setaction2/setaction2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sms_adapter/sms_adapter.iml" filepath="$PROJECT_DIR$/sms_adapter/sms_adapter.iml" />

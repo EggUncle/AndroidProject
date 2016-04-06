@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.example.administrator.mynotificationtest"
+        applicationId "com.example.administrator.myshaketest"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
