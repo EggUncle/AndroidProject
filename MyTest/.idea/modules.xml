@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyTest.iml" filepath="$PROJECT_DIR$/MyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cliptest/cliptest.iml" filepath="$PROJECT_DIR$/cliptest/cliptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymusicplayer/mymusicplayer.iml" filepath="$PROJECT_DIR$/mymusicplayer/mymusicplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mynotificationtest/mynotificationtest.iml" filepath="$PROJECT_DIR$/mynotificationtest/mynotificationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setaction1/setaction1.iml" filepath="$PROJECT_DIR$/setaction1/setaction1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setaction2/setaction2.iml" filepath="$PROJECT_DIR$/setaction2/setaction2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sms_adapter/sms_adapter.iml" filepath="$PROJECT_DIR$/sms_adapter/sms_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sms_receiver/sms_receiver.iml" filepath="$PROJECT_DIR$/sms_receiver/sms_receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test160322/test160322.iml" filepath="$PROJECT_DIR$/test160322/test160322.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdrawerlayout/testdrawerlayout.iml" filepath="$PROJECT_DIR$/testdrawerlayout/testdrawerlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" filepath="$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">学生考勤系统</string>
+
+    <string-array name="myclass">
+        <item>一班</item>
+        <item>二班</item>
+    </string-array>
+</resources>

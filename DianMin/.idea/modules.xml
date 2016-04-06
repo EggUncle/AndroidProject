@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DianMin.iml" filepath="$PROJECT_DIR$/DianMin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonenote/phonenote.iml" filepath="$PROJECT_DIR$/phonenote/phonenote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seekbartest/seekbartest.iml" filepath="$PROJECT_DIR$/seekbartest/seekbartest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlisttest2/sqlisttest2.iml" filepath="$PROJECT_DIR$/sqlisttest2/sqlisttest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitetest/sqlitetest.iml" filepath="$PROJECT_DIR$/sqlitetest/sqlitetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student/student.iml" filepath="$PROJECT_DIR$/student/student.iml" />
+    </modules>
+  </component>
+</project>

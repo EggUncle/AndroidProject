@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="病假"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/ask_leave_cut_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+
+            android:text="-"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/ask_leave_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="null"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/ask_leave_increase"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="+"
+            android:textSize="20dp" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="缺勤"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/not_arrive_cut_down"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+
+            android:text="-"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/not_arrive_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="null"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/not_arrive_increase"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+
+            android:text="+"
+            android:textSize="20dp" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="迟到"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/late_cut_down"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+
+            android:text="-"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/late_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="null"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/late_increase"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+
+            android:text="+"
+            android:textSize="20dp" />
+    </TableRow>
+</TableLayout>

@@ -1,0 +1,1 @@
+include ':app', ':sqlitetest', ':student', ':phonenote', ':sqlisttest2', ':seekbartest'

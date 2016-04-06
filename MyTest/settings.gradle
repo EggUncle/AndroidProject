@@ -1,0 +1,1 @@
+include ':app2', ':viewpagerindicator', ':sms_adapter', ':sms_receiver', ':testdrawerlayout', ':test160322', ':cliptest', ':setaction1', ':setaction2', ':mymusicplayer', ':mynotificationtest'

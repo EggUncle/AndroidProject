@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app2" />
+            <option value="$PROJECT_DIR$/cliptest" />
+            <option value="$PROJECT_DIR$/mymusicplayer" />
+            <option value="$PROJECT_DIR$/mynotificationtest" />
+            <option value="$PROJECT_DIR$/setaction1" />
+            <option value="$PROJECT_DIR$/setaction2" />
+            <option value="$PROJECT_DIR$/sms_adapter" />
+            <option value="$PROJECT_DIR$/sms_receiver" />
+            <option value="$PROJECT_DIR$/test160322" />
+            <option value="$PROJECT_DIR$/testdrawerlayout" />
+            <option value="$PROJECT_DIR$/viewpagerindicator" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
