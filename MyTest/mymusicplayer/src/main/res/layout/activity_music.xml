@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.administrator.mymusicplayer.MusicActivity">
+
+
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            >
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:orientation="horizontal"-->
+                    <!--android:gravity="center_vertical"-->
+                    <!--&gt;-->
+                   <!---->
+
+
+
+
+                    <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+                        <!--&lt;!&ndash;android:textSize="30dp"&ndash;&gt;-->
+                        <!--&lt;!&ndash;android:id="@+id/txt_about_songs2"&ndash;&gt;-->
+                        <!--&lt;!&ndash;android:layout_width="match_parent"&ndash;&gt;-->
+                        <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+                        <!--&lt;!&ndash;android:ellipsize="marquee"&ndash;&gt;-->
+                        <!--&lt;!&ndash;android:focusable="true"&ndash;&gt;-->
+                        <!--&lt;!&ndash;android:focusableInTouchMode="true"&ndash;&gt;-->
+                        <!--&lt;!&ndash;android:singleLine="true"&ndash;&gt;-->
+                        <!--&lt;!&ndash;android:text="music"&ndash;&gt;-->
+                        <!--&lt;!&ndash;/>&ndash;&gt;-->
+                <!--</LinearLayout>-->
+
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_gravity="center"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:layout_weight="10"
+                android:padding="20dp"
+                >
+
+                <com.example.administrator.mymusicplayer.CircleImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:id="@+id/img_circle_songs"
+                    android:src="@mipmap/ic_launcher"
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:gravity="bottom"
+                android:layout_weight="2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+                <SeekBar
+                    android:id="@+id/music_seek_bar_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <RelativeLayout
+            android:padding="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/side_nav_bar">
+
+            <ImageButton
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignBottom="@+id/btn_start_or_stop_2"
+                android:layout_marginRight="30dp"
+                android:layout_toLeftOf="@+id/btn_start_or_stop_2"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:id="@+id/btn_preview_2"
+                android:src="@drawable/preview2" />
+
+            <ImageButton
+                android:id="@+id/btn_start_or_stop_2"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/start_play" />
+
+            <ImageButton
+                android:id="@+id/btn_next_2"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignBottom="@+id/btn_start_or_stop_2"
+                android:layout_marginLeft="30dp"
+                android:layout_toRightOf="@+id/btn_start_or_stop_2"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/next2" />
+
+        </RelativeLayout>
+
+
+</LinearLayout>

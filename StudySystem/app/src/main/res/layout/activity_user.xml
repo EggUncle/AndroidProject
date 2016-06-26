@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="uncle.egg.studysystem.UserActivity">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <TableRow>
+
+
+            <ImageButton
+                android:id="@+id/user_management"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/user_management" />
+
+            <ImageButton
+                android:id="@+id/communicate"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/communicate" />
+
+            <ImageButton
+                android:id="@+id/my_error"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/my_error" />
+
+        </TableRow>
+
+        <TableRow>
+
+
+            <ImageButton
+                android:id="@+id/learn_course"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/learn_course" />
+
+            <ImageButton
+                android:id="@+id/video_learn"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/video_learn" />
+
+            <ImageButton
+                android:id="@+id/unit_exercise"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/unit_exercise" />
+
+        </TableRow>
+
+        <TableRow>
+
+
+            <ImageButton
+                android:id="@+id/course_test"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/course_test" />
+
+            <ImageButton
+                android:id="@+id/complex_test"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/complex_test" />
+
+            <ImageButton
+                android:id="@+id/exit_system"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/exit_system" />
+
+        </TableRow>
+    </TableLayout>
+
+</RelativeLayout>

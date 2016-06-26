@@ -1,0 +1,1462 @@
+[
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_rar.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_rar.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_moon_page_selected.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_moon_page_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_record_bg.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_record_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_txt.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_txt.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_female.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nim_female.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_moon_page_unselected.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_moon_page_unselected.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_speaker_icon_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_right_snapchat_disable.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_view_holder_right_snapchat_disable.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_download_resume.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_icon_download_resume.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_toast_bg.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\dialog_toast_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_edittext_box.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_edittext_box.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_right_top_btn_disable.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\register_right_top_btn_disable.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_edittext_box_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_edittext_box_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_select_dot_avatar.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_select_dot_avatar.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\marker_info_bg.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\marker_info_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_1.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_1.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tip_bar_yellow_background.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\tip_bar_yellow_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_disable.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_mute_icon_disable.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_announce.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\no_announce.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow_bottom.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\shadow_bottom.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_preview_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_right_type_video.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_right_type_video.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_zip.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_zip.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_dialog_toast_bg.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_dialog_toast_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_avatar_group.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_avatar_group.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_audio_record_icon_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_red_long_btn_nomal.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\g_red_long_btn_nomal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_gif.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_gif.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_2.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_2.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_icon_inactive.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_emoji_icon_inactive.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_ppt.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_ppt.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_58.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\room_cover_58.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_cameras.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_cameras.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_mute_icon_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_start.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\record_start.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_mute_speaker_bg_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_loaction_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\btn_loaction_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_unread_news_icon_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_unread_news_icon_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dark_logo_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_jpg.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_jpg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_8.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon_8.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_snapchat_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_snapchat_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_create_btn_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_create_btn_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_audio_close.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\icon_audio_close.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_music_icon_play.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_music_icon_play.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_normal.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_mute_speaker_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_pwd_lock_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\user_pwd_lock_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_emoji_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_1.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\network_grade_1.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_photo_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_checked.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_mute_icon_checked.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_call_bg.jpg",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_call_bg.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_popup_menu_bg.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_popup_menu_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_unknow.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_unknow.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_image_default.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_image_default.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_speaker_icon_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_back_arrow_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\chat_room_back_arrow_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_tab_new_message_notify.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\main_tab_new_message_notify.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_left_snapchat_disable.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_view_holder_left_snapchat_disable.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_word.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_word.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_edit_delete.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_icon_edit_delete.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_white_back_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_actionbar_white_back_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_new_message_notify.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_new_message_notify.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_voice_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_voice_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_play_icon_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_video_play_icon_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_pdf.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_pdf.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_audio_chat_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_audio_chat_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_back_arrow_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\chat_room_back_arrow_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_orignal_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_orignal_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_disable.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_audio_record_icon_disable.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_image_selected.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_image_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_audio_playing_left_blue_bg.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_audio_playing_left_blue_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_excel.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_excel.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_male.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nim_male.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_multiport_detail.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\ic_multiport_detail.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_png.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_png.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_owner_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_owner_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow_left.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\shadow_left.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_create_btn.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_create_btn.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_record_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_record_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_36.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\room_cover_36.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_video_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_video_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_white_btn_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\g_white_btn_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_5.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon_5.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_receive_bg_normal.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_receive_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow_right.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\shadow_right.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_video_chat_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_video_chat_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_10.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon_10.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_left_type_video.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_left_type_video.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_cameras_hover.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_cameras_hover.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_audio_playing_right_blue_bg.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_audio_playing_right_blue_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_right_blue_bg.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_right_blue_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_37.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\room_cover_37.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_mute_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_mute_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_messge_history.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nim_ic_messge_history.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_3.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon_3.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_capture_stop_btn.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_video_capture_stop_btn.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_white_round_button.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nim_white_round_button.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dark_back_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_bg_message_tip.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_bg_message_tip.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_ck_bg.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_emoji_ck_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_switch_camera_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_switch_camera_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_activity_top_tip.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_activity_top_tip.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_guess_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_guess_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_watch_video_download_progress_foreground.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_watch_video_download_progress_foreground.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_no_pickup.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_no_pickup.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_file_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_file_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_video.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\record_video.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_message_notify.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\new_message_notify.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_unchecked.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_checkbox_unchecked.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_disable.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_preview_disable.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_left_snapchat.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_view_holder_left_snapchat.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_guess_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_guess_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_preview_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_search_dark_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_actionbar_search_dark_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_image_download_failed.jpg",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_image_download_failed.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_my_computer.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\ic_my_computer.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_bar_black_more_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\action_bar_black_more_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\address.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\address.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_rts_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_rts_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_team_announce.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\bg_team_announce.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_50.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\room_cover_50.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_voice_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_voice_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle_off.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_slide_toggle_off.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_grey_delete_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_grey_delete_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_right_top_btn_normal.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\register_right_top_btn_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_0.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\network_grade_0.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\directory.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\directory.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_ic_close_yellow_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\g_ic_close_yellow_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_red_round_button.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nim_red_round_button.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_checked.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_audio_record_icon_checked.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_checked_green.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_checkbox_checked_green.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_image_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_image_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_recent_contact_ic_sending.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_recent_contact_ic_sending.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_left_type_audio.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_left_type_audio.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_4.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon_4.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_message_actionbar_p2p_add.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nim_ic_message_actionbar_p2p_add.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_3.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_3.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_ppt.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_ppt.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_video_chat_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_video_chat_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_emotion.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_emotion.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_close_video_send.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_close_video_send.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_2.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_2.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_3.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_3.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_refuse_bg_normal.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_refuse_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_gif.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_gif.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_pdf.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_pdf.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dropdown_bg.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\actionbar_dropdown_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_verify_remind.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\icon_verify_remind.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_zip.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_zip.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_capture_start_btn.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_video_capture_start_btn.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_letter_view_hit_point.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_letter_view_hit_point.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_mute_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_mute_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_bar_search_view_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\action_bar_search_view_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\admin_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\admin_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_loaction_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\btn_loaction_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_bottom_logout_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_bottom_logout_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stat_notify_msg.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\ic_stat_notify_msg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_bg.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\welcome_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_audio_open.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\icon_audio_open.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scrollbar_handle_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\scrollbar_handle_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_slide_toggle.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_item_delete_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_member_item_delete_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_receive_bg_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_receive_bg_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_team.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\ic_search_team.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nick_name_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nick_name_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_word.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_word.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_green_btn_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\g_green_btn_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_friends.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\ic_add_friends.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_rts_send.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\icon_rts_send.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_location_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_location_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_rar.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_rar.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_call_wifi_unavailable.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_audio_call_wifi_unavailable.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_play_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_video_play_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_unread_badge.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_g_unread_badge.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_logo.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\about_logo.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_record_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_record_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_disable.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_mute_speaker_bg_disable.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_keyboard.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_keyboard.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pin.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\pin.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_failed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_ic_failed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_left_white_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_white_round_button_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nim_white_round_button_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_mute_icon_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_2.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon_2.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_checkbox_not_checked.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nim_checkbox_not_checked.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sdk_share_dialog_thumb_default.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\sdk_share_dialog_thumb_default.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logo.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_mp3.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_mp3.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_plus.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_plus.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_add_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_member_add_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_unknow.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_unknow.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_right_type_audio.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_right_type_audio.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_refuse_bg_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_refuse_bg_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_audio_mode_switch_bg_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\video_audio_mode_switch_bg_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_64.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\room_cover_64.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_bottom_logout_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_bottom_logout_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_close_camera_disable.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_close_camera_disable.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon_9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_tip_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_tip_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_red_round_button_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nim_red_round_button_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_scrollbar_handle_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_scrollbar_handle_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_del.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_emoji_del.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_admin_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_admin_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_location_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_location_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_arrow_right.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_arrow_right.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_multiport.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\ic_multiport.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_txt.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_txt.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_57.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\room_cover_57.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_audio_mode_switch_bg_normal.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\video_audio_mode_switch_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_1.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_1.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_ic_failed_small.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\g_ic_failed_small.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_default_img_failed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_default_img_failed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_advanced_team.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\ic_advanced_team.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_hit_letter_bg.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_hit_letter_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_arrow.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\back_arrow.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_close_camera_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_close_camera_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_mute_disable.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_mute_disable.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\main_menu.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_video_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_video_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_right_blue_bg_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_right_blue_bg_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_secretary.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\ic_secretary.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_red_long_btn_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\g_red_long_btn_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_checked_grey.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_checkbox_checked_grey.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avatar_def.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avatar_def.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_orignal_checked.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_orignal_checked.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_unselected.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_preview_unselected.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_excel.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_excel.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_announce.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\chat_room_announce.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_png.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_png.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_add_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_member_add_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_audio_record_icon_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_6.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon_6.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_file_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_file_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_html.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_html.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_loading_small_white.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_loading_small_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_emotion_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_emotion_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_switch_camera_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_switch_camera_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_ic_close_yellow.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\g_ic_close_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_delete_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_member_delete_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_switch_mode_video_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_switch_mode_video_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_default_img.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_default_img.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_mp3.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_mp3.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_watch_video_download_progress_background.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_watch_video_download_progress_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_refresh_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\pull_refresh_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_html.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_html.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_snapchat_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_snapchat_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptr_circle_loading.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\ptr_circle_loading.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_white_normal.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\edittext_white_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_plus_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_plus_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_jpg.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_jpg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_switch_camera_disable.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_switch_camera_disable.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_checked.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_speaker_icon_checked.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_mp4.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_detail_mp4.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_2.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\network_grade_2.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_black_list.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\ic_black_list.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_disable.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_speaker_icon_disable.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_delete_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_member_delete_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_72.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\room_cover_72.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_right_snapchat.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_view_holder_right_snapchat.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_switch_mode_audio_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_switch_mode_audio_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle_on.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_slide_toggle_on.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_tip_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_tip_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_white_btn_normal.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\g_white_btn_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_white_logo_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\actionbar_white_logo_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\master_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\master_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_record_disable.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_record_disable.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_rts_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_rts_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_unsupport_mime_type.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_unsupport_mime_type.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_checked.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_mute_speaker_bg_checked.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_audio_chat_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\message_plus_audio_chat_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_reddot.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_icon_reddot.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_3.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\network_grade_3.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_close_camera_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\avchat_video_close_camera_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_keyboard_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_keyboard_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_49.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\room_cover_49.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_message_actionbar_team.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\nim_ic_message_actionbar_team.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_7.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon_7.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_download_pause.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_icon_download_pause.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_account_icon.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\user_account_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_send_normal.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_send_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_mp4.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\file_ic_session_mp4.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_trans_fail.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_ic_trans_fail.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_1.png",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\drawable-hdpi\\head_icon_1.png"
+    }
+]

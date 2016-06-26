@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StudySystem</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登陆</string>
+    <string name="need_registered">没有账号？注册</string>
+
+    <string name="user_management">用户管理</string>
+    <string name="communicate">交流互动</string>
+    <string name="my_error">错题集</string>
+    <string name="learn_course">课程学习</string>
+    <string name="video_learn">视频学习</string>
+    <string name="unit_exercise">章节练习</string>
+    <string name="course_test">课程测试</string>
+    <string name="complex_test">综合测试</string>
+    <string name="exit_system">退出系统</string>
+
+</resources>

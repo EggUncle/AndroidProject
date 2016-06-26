@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\AndroidProject\\MyTest\\uikit\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\AndroidProject\\MyTest\\uikit\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\AndroidProject\\MyTest\\uikit\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\AndroidProject\\MyTest\\uikit\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\AndroidProject\\MyTest\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

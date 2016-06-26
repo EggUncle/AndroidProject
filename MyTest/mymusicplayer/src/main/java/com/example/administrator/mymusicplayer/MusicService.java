@@ -20,6 +20,7 @@ import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 import android.view.View;
 import android.widget.RemoteViews;
+import android.widget.Toast;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -35,12 +36,15 @@ public class MusicService extends Service {
     static final int PLAY_LIST = 0x12;
     static final int PLAY_NEXT = 0x13;
     static final int PLAY_PROGRESS = 0X14;
-    int nowPlaying = 0;
+    static final int PLAY_BACK = 0x15;
+    // int nowPlaying = 0;
 
-    Boolean bol_Playing = false;
+    Intent sendIntent = new Intent(MainActivity.RECEIVER_ACTION);
+
+    // Boolean bol_Playing = false;
     List<Mp3Info> mp3InfoList;
     List<HashMap<String, String>> hashMapList;
-    MyListAdapter myListAdapter;
+    //  MyListAdapter myListAdapter;
     MediaPlayer mPlayer;
 
     MyReceiver serviceReceiver;
@@ -57,16 +61,39 @@ public class MusicService extends Service {
     @Override
     public void onCreate() {
         super.onCreate();
-
-        myListAdapter = new MyListAdapter();
+        //  myListAdapter = new MyListAdapter();
         serviceReceiver = new MyReceiver();
 
+        mp3InfoList = MainActivity.mp3InfoList;
+        hashMapList = MainActivity.hashMapList;
+//        try {
+//            mPlayer = new MediaPlayer();
+//            mPlayer.setDataSource(hashMapList.get(0).get("url").toString());
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
         IntentFilter intentFilter = new IntentFilter();
         intentFilter.addAction(MainActivity.SERVICE_ACTION);
         registerReceiver(serviceReceiver, intentFilter);
 
-        MyAyncTask myAyncTask = new MyAyncTask();
-        myAyncTask.execute();
+        Play(0);
+        mPlayer.pause();
+        int CurrentPosition = mPlayer.getCurrentPosition();
+        int mMax = mPlayer.getDuration();
+        String str_songs_time = ShowTime(CurrentPosition) + "/" + ShowTime(mMax);
+        sendIntent.putExtra("str_songs_time", str_songs_time);
+        sendIntent.putExtra("mMax", mMax);
+        sendIntent.putExtra("CurrentPosition", CurrentPosition);
+        sendBroadcast(sendIntent);
+
+//        MyAyncTask myAyncTask = new MyAyncTask();
+//        myAyncTask.execute();
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        unregisterReceiver(serviceReceiver);
     }
 
     public class MyReceiver extends BroadcastReceiver {
@@ -78,29 +105,30 @@ public class MusicService extends Service {
             //     Log.v("MY_TAG","onReceive");
             switch (control) {
                 case START_OR_STOP: {
-                    bol_Playing = intent.getBooleanExtra("play_or_stop", false);
-                    if (mPlayer != null) {
-                        if (bol_Playing) {
-                            mPlayer.pause();
-                            bol_Playing=false;
-                        } else {
-                            mPlayer.start();
-                            bol_Playing=true;
-                        }
-                    }
+
+                    //   bol_Playing = intent.getBooleanExtra("play_or_stop", false);
+//                    if (mPlayer != null) {
+//                        if (MainActivity.bol_Playing) {
+//                            mPlayer.pause();
+//                            // MainActivity.bol_Playing=false;
+//                        } else {
+//                            mPlayer.start();
+//                            //     MainActivity.bol_Playing=true;
+//                        }
+//                    }
                 }
                 break;
                 case PLAY_LIST: {
                     int position = intent.getIntExtra("play_list", -1);
                     Play(position);
-                    bol_Playing = true;
+                    MainActivity.bol_Playing = true;
                 }
                 break;
                 case PLAY_NEXT: {
-                  //  int positon = intent.getIntExtra("play_next", -1);
-                    nowPlaying = (nowPlaying + 1) % hashMapList.size();
-                    Play(nowPlaying);
-                    bol_Playing = true;
+                    //  int positon = intent.getIntExtra("play_next", -1);
+                    MainActivity.nowPlaying = (MainActivity.nowPlaying + 1) % hashMapList.size();
+                    Play(MainActivity.nowPlaying);
+                    MainActivity.bol_Playing = true;
                 }
                 break;
                 case PLAY_PROGRESS: {
@@ -117,6 +145,17 @@ public class MusicService extends Service {
                     }
                 }
                 break;
+                case PLAY_BACK: {
+
+                    if (MainActivity.nowPlaying - 1 == -1) {
+                        MainActivity.nowPlaying = hashMapList.size();
+                    } else {
+                        MainActivity.nowPlaying = (MainActivity.nowPlaying - 1) % hashMapList.size();
+                    }
+                    Play(MainActivity.nowPlaying);
+                    MainActivity.bol_Playing = true;
+                }
+                break;
             }
             //Intent sendIntent = new Intent(MainActivity.RECEIVER_ACTION);
 
@@ -125,29 +164,29 @@ public class MusicService extends Service {
 
     private void Play(int position) {
         try {
-            if (!bol_Playing) {//未播放
-                nowPlaying = position;
+            if (!MainActivity.bol_Playing) {//未播放
+                // MainActivity.nowPlaying = position;
                 mPlayer = new MediaPlayer();
-                mPlayer.setDataSource(hashMapList.get(position).get("url").toString());
+                mPlayer.setDataSource(hashMapList.get(MainActivity.nowPlaying).get("url").toString());
                 Log.v("MY_TAG", "bofang");
-                mPlayer.prepare();
+                mPlayer.prepareAsync();
                 mPlayer.start();
             } else {//正在播放
-                    nowPlaying = position;
-                    if (mPlayer != null) {
-                        mPlayer.stop();
-                    }
-                    mPlayer = new MediaPlayer();
-                    mPlayer.setDataSource(hashMapList.get(nowPlaying).get("url").toString());
+                //  MainActivity.nowPlaying = position;
+                if (mPlayer != null) {
+                    mPlayer.stop();
+                }
+                mPlayer = new MediaPlayer();
+                mPlayer.setDataSource(hashMapList.get(MainActivity.nowPlaying).get("url").toString());
 
-                    mPlayer.prepare();
-                    mPlayer.start();
+                mPlayer.prepareAsync();
+                mPlayer.start();
 
             }
 
-            intent.putExtra("about_songs",hashMapList.get(nowPlaying).get("title").toString()
-                    + "-" + hashMapList.get(nowPlaying).get("Artist").toString());
-           // intent.putExtra("nowPlaying",nowPlaying);
+            intent.putExtra("about_songs", hashMapList.get(MainActivity.nowPlaying).get("title").toString()
+                    + "-" + hashMapList.get(MainActivity.nowPlaying).get("Artist").toString());
+            // intent.putExtra("nowPlaying",nowPlaying);
             sendBroadcast(intent);
         } catch (IOException e) {
             e.printStackTrace();
@@ -155,12 +194,11 @@ public class MusicService extends Service {
     }
 
 
-
-    private void setDate() {
-        mp3InfoList = MediaUtil.getMp3Infos(this);
-        hashMapList = MediaUtil.getMusicMaps(mp3InfoList);
-        myListAdapter.setListdata(this, hashMapList);
-    }
+//    private void setDate() {
+//        mp3InfoList = MediaUtil.getMp3Infos(this);
+//        hashMapList = MediaUtil.getMusicMaps(mp3InfoList);
+//        myListAdapter.setListdata(this, hashMapList);
+//    }
 
     Handler musicHandler = new Handler();
 
@@ -179,68 +217,83 @@ public class MusicService extends Service {
             int mMax = mPlayer.getDuration();
             String str_songs_time = ShowTime(CurrentPosition) + "/" + ShowTime(mMax);
 
-            Intent sendIntent = new Intent(MainActivity.RECEIVER_ACTION);
+
             sendIntent.putExtra("str_songs_time", str_songs_time);
             sendIntent.putExtra("mMax", mMax);
             sendIntent.putExtra("CurrentPosition", CurrentPosition);
-            sendBroadcast(sendIntent);
-            if (!mPlayer.isPlaying() && bol_Playing) {
-                //   mPlayer.stop();
+
+
+            if (ShowTime(CurrentPosition).equals(ShowTime(mMax))) {
                 Log.v("MY_TAG", "next");
-                nowPlaying = (nowPlaying + 1) % hashMapList.size();
-                Play(nowPlaying);
+                MainActivity.nowPlaying = (MainActivity.nowPlaying + 1) % hashMapList.size();
+                Play(MainActivity.nowPlaying);
+                sendIntent.putExtra("next_songs", true);
+            } else {
+                sendIntent.putExtra("next_songs", false);
+            }
+
+//            if (!mPlayer.isPlaying() && MainActivity.bol_Playing) {
+//                //   mPlayer.stop();
+//
+//            }
+            sendBroadcast(sendIntent);
+
+            if (!MainActivity.bol_Playing) {
+                mPlayer.pause();
+            } else {
+                mPlayer.start();
             }
             musicHandler.postDelayed(r, 100);
 
         }
     };
 
-    private class MyAyncTask extends AsyncTask<Void, Integer, ArrayList<String>> {
-
-        //   ArrayList<String> list_name_data;
-
-        public MyAyncTask() {
-            super();
-        }
-
-
-        @Override
-        protected void onPostExecute(ArrayList<String> strings) {
-            //执行后返回值
-            super.onPostExecute(strings);
-//            mProgressBar.setVisibility(View.GONE);
-//            music_list.setVisibility(View.VISIBLE);
-//            music_list.setAdapter(myListAdapter);
-//            Intent intent = new Intent(MainActivity.RECEIVER_ACTION);
-//            intent.putExtra("list_data", (Parcelable) hashMapList);
-            //  intent.putStringArrayListExtra("list_data",hashMapList);
-            // sendBroadcast(intent);
-            //   intent.putParcelableArrayListExtra("list_data",hashMapList);
-        }
-
-        @Override
-        protected void onPreExecute() {
-            //执行前的初始化操作
-            super.onPreExecute();
-            //music_list.setVisibility(View.GONE);
-            //    mProgressBar.setVisibility(View.VISIBLE);
-        }
-
-        @Override
-        protected void onProgressUpdate(Integer... values) {
-            //更新时调用的操作
-            //  listFileData = getMapData(listFileData);
-            super.onProgressUpdate(values);
-        }
-
-        @Override
-        protected ArrayList<String> doInBackground(Void... params) {
-            //后台加载时的操作
-            //  getMapData(listFileData);
-            setDate();
-            return null;
-        }
-    }
+//    private class MyAyncTask extends AsyncTask<Void, Integer, ArrayList<String>> {
+//
+//        //   ArrayList<String> list_name_data;
+//
+//        public MyAyncTask() {
+//            super();
+//        }
+//
+//
+//        @Override
+//        protected void onPostExecute(ArrayList<String> strings) {
+//            //执行后返回值
+//            super.onPostExecute(strings);
+////            mProgressBar.setVisibility(View.GONE);
+////            music_list.setVisibility(View.VISIBLE);
+////            music_list.setAdapter(myListAdapter);
+////            Intent intent = new Intent(MainActivity.RECEIVER_ACTION);
+////            intent.putExtra("list_data", (Parcelable) hashMapList);
+//            //  intent.putStringArrayListExtra("list_data",hashMapList);
+//            // sendBroadcast(intent);
+//            //   intent.putParcelableArrayListExtra("list_data",hashMapList);
+//        }
+//
+//        @Override
+//        protected void onPreExecute() {
+//            //执行前的初始化操作
+//            super.onPreExecute();
+//            //music_list.setVisibility(View.GONE);
+//            //    mProgressBar.setVisibility(View.VISIBLE);
+//        }
+//
+//        @Override
+//        protected void onProgressUpdate(Integer... values) {
+//            //更新时调用的操作
+//            //  listFileData = getMapData(listFileData);
+//            super.onProgressUpdate(values);
+//        }
+//
+//        @Override
+//        protected ArrayList<String> doInBackground(Void... params) {
+//            //后台加载时的操作
+//            //  getMapData(listFileData);
+//            setDate();
+//            return null;
+//        }
+//    }
 
     public String ShowTime(int time) {
         time /= 1000;

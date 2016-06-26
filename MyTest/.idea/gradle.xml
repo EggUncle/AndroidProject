@@ -9,17 +9,33 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aidltestclient" />
+            <option value="$PROJECT_DIR$/aidltestserver" />
             <option value="$PROJECT_DIR$/app2" />
+            <option value="$PROJECT_DIR$/arcmenutest" />
             <option value="$PROJECT_DIR$/cliptest" />
+            <option value="$PROJECT_DIR$/contentprovidertest" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/httptest" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/myarcmenutest" />
+            <option value="$PROJECT_DIR$/myintentservice" />
             <option value="$PROJECT_DIR$/mymusicplayer" />
             <option value="$PROJECT_DIR$/mynotificationtest" />
+            <option value="$PROJECT_DIR$/myprogresstest" />
             <option value="$PROJECT_DIR$/myshaketest" />
+            <option value="$PROJECT_DIR$/myurltest" />
+            <option value="$PROJECT_DIR$/pushTalk" />
+            <option value="$PROJECT_DIR$/recivertest" />
+            <option value="$PROJECT_DIR$/recycelerviewtest" />
             <option value="$PROJECT_DIR$/setaction1" />
             <option value="$PROJECT_DIR$/setaction2" />
             <option value="$PROJECT_DIR$/sms_adapter" />
             <option value="$PROJECT_DIR$/sms_receiver" />
+            <option value="$PROJECT_DIR$/sockettest" />
             <option value="$PROJECT_DIR$/test160322" />
             <option value="$PROJECT_DIR$/testdrawerlayout" />
+            <option value="$PROJECT_DIR$/uikit" />
             <option value="$PROJECT_DIR$/viewpagerindicator" />
           </set>
         </option>

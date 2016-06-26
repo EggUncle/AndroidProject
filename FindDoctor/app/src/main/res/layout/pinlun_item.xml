@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_height="60dp">
+        <TextView
+            android:id="@+id/user_name"
+            android:text="用户"
+            android:textSize="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/user_pinlun"
+            android:textSize="20dp"
+            android:text="评论"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <RatingBar
+        android:layout_gravity="bottom"
+        android:id="@+id/rat_bar_doctor"
+        style="@style/MyRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/line_list"
+        android:clickable="false"
+        android:numStars="5"
+        android:isIndicator="true"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp"
+        android:rating="5"
+        android:stepSize="0.5" />
+</LinearLayout>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\composer_icn_plus.xml",
+        "source": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\composer_icn_plus.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\composer_icn_plus_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\composer_icn_plus_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\composer_icn_plus_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\composer_icn_plus_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\composer_button_normal.png",
+        "source": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\composer_button_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\composer_button_pressed.png",
+        "source": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\composer_button_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\composer_button.xml",
+        "source": "F:\\AndroidProject\\MyTest\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\composer_button.xml"
+    }
+]

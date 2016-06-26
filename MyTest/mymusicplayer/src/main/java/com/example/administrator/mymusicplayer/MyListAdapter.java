@@ -4,6 +4,7 @@ import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.HashMap;
@@ -14,10 +15,10 @@ import java.util.Map;
  * Created by egguncle on 16.3.26.
  */
 public class MyListAdapter extends BaseAdapter {
-    List<HashMap<String,String>>  listdata;
+    List<HashMap<String, String>> listdata;
     Context context;
 
-    public void setListdata(Context context,  List<HashMap<String,String>> listdata) {
+    public void setListdata(Context context, List<HashMap<String, String>> listdata) {
         this.listdata = listdata;
         this.context = context;
     }
@@ -46,6 +47,7 @@ public class MyListAdapter extends BaseAdapter {
             viewHolder.txt_singer_name = (TextView) convertView.findViewById(R.id.txt_singer_name);
             viewHolder.txt_songs_name = (TextView) convertView.findViewById(R.id.txt_songs_name);
             viewHolder.txt_songs_time = (TextView) convertView.findViewById(R.id.txt_songs_time);
+          //  viewHolder.icon_song = (ImageView) convertView.findViewById(R.id.icon_songs);
             convertView.setTag(viewHolder);
         } else {
             viewHolder = (ViewHolder) convertView.getTag();
@@ -53,13 +55,19 @@ public class MyListAdapter extends BaseAdapter {
         viewHolder.txt_singer_name.setText(listdata.get(position).get("title").toString());
         viewHolder.txt_songs_name.setText(listdata.get(position).get("Artist").toString());
         viewHolder.txt_songs_time.setText(listdata.get(position).get("duration").toString());
+//        viewHolder.icon_song.setImageBitmap(MediaUtil.getAlbumImage(
+//                Integer.parseInt(listdata.get(position).get("albumId")), context));
+
 
         return convertView;
     }
 
     private class ViewHolder {
+       // ImageView icon_song;
         TextView txt_singer_name;
         TextView txt_songs_name;
         TextView txt_songs_time;
     }
+
+
 }

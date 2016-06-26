@@ -3,17 +3,33 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyTest.iml" filepath="$PROJECT_DIR$/MyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidltestclient/aidltestclient.iml" filepath="$PROJECT_DIR$/aidltestclient/aidltestclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidltestserver/aidltestserver.iml" filepath="$PROJECT_DIR$/aidltestserver/aidltestserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arcmenutest/arcmenutest.iml" filepath="$PROJECT_DIR$/arcmenutest/arcmenutest.iml" />
       <module fileurl="file://$PROJECT_DIR$/cliptest/cliptest.iml" filepath="$PROJECT_DIR$/cliptest/cliptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovidertest/contentprovidertest.iml" filepath="$PROJECT_DIR$/contentprovidertest/contentprovidertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httptest/httptest.iml" filepath="$PROJECT_DIR$/httptest/httptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myarcmenutest/myarcmenutest.iml" filepath="$PROJECT_DIR$/myarcmenutest/myarcmenutest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myintentservice/myintentservice.iml" filepath="$PROJECT_DIR$/myintentservice/myintentservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/mymusicplayer/mymusicplayer.iml" filepath="$PROJECT_DIR$/mymusicplayer/mymusicplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/mynotificationtest/mynotificationtest.iml" filepath="$PROJECT_DIR$/mynotificationtest/mynotificationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myprogresstest/myprogresstest.iml" filepath="$PROJECT_DIR$/myprogresstest/myprogresstest.iml" />
       <module fileurl="file://$PROJECT_DIR$/myshaketest/myshaketest.iml" filepath="$PROJECT_DIR$/myshaketest/myshaketest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myurltest/myurltest.iml" filepath="$PROJECT_DIR$/myurltest/myurltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pushTalk/pushTalk.iml" filepath="$PROJECT_DIR$/pushTalk/pushTalk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recivertest/recivertest.iml" filepath="$PROJECT_DIR$/recivertest/recivertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycelerviewtest/recycelerviewtest.iml" filepath="$PROJECT_DIR$/recycelerviewtest/recycelerviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/setaction1/setaction1.iml" filepath="$PROJECT_DIR$/setaction1/setaction1.iml" />
       <module fileurl="file://$PROJECT_DIR$/setaction2/setaction2.iml" filepath="$PROJECT_DIR$/setaction2/setaction2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sms_adapter/sms_adapter.iml" filepath="$PROJECT_DIR$/sms_adapter/sms_adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/sms_receiver/sms_receiver.iml" filepath="$PROJECT_DIR$/sms_receiver/sms_receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sockettest/sockettest.iml" filepath="$PROJECT_DIR$/sockettest/sockettest.iml" />
       <module fileurl="file://$PROJECT_DIR$/test160322/test160322.iml" filepath="$PROJECT_DIR$/test160322/test160322.iml" />
       <module fileurl="file://$PROJECT_DIR$/testdrawerlayout/testdrawerlayout.iml" filepath="$PROJECT_DIR$/testdrawerlayout/testdrawerlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uikit/uikit.iml" filepath="$PROJECT_DIR$/uikit/uikit.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" filepath="$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" />
     </modules>
   </component>

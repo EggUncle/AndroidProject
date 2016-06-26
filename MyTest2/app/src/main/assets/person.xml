@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persons>
+    <person id="1">
+        <name>张三</name>
+        <sex>男</sex>
+        <age>25</age>
+        <path>http://192.168.56.1:8080/test/img/1.jpg</path>
+    </person>
+    <person id="2">
+        <name>李四</name>
+        <sex>男</sex>
+        <age>26</age>
+        <path>http://192.168.56.1:8080/test/img/2.jpg</path>
+    </person>
+    <person id="3">
+        <name>王五</name>
+        <sex>男</sex>
+        <age>27</age>
+        <path>http://192.168.56.1:8080/test/img/3.jpg</path>
+    </person>
+    <person id="4">
+        <name>小红</name>
+        <sex>女</sex>
+        <age>26</age>
+        <path>http://192.168.56.1:8080/test/img/4.jpg</path>
+    </person>
+    <person id="5">
+        <name>小六</name>
+        <sex>男</sex>
+        <age>26</age>
+        <path>http://192.168.56.1:8080/test/img/5.jpg</path>
+    </person>
+    <person id="6">
+        <name>四</name>
+        <sex>男</sex>
+        <age>26</age>
+        <path>http://192.168.56.1:8080/test/img/6.jpg</path>
+    </person>
+</Persons>

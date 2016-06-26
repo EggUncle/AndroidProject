@@ -1,1 +1,3 @@
-include ':app2', ':viewpagerindicator', ':sms_adapter', ':sms_receiver', ':testdrawerlayout', ':test160322', ':cliptest', ':setaction1', ':setaction2', ':mymusicplayer', ':mynotificationtest', ':myshaketest'
+include ':app2', ':viewpagerindicator', ':sms_adapter', ':sms_receiver', ':testdrawerlayout', ':test160322', ':cliptest', ':setaction1', ':setaction2', ':mymusicplayer', ':mynotificationtest', ':myshaketest', ':myprogresstest', ':myintentservice', ':aidltestclient', ':aidltestserver', ':recycelerviewtest', ':myurltest', ':contentprovidertest', ':httptest', ':arcmenutest', ':myarcmenutest', ':recivertest', ':sockettest', ':uikit', ':demo'
+include ':pushTalk'
+include ':library'

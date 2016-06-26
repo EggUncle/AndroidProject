@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/back_2"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
 
     <ListView
+
         android:id="@+id/music_list"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/linear"></ListView>
+        android:layout_weight="1"
+        android:layout_height="match_parent"></ListView>
 
     <ProgressBar
         android:id="@+id/progressBar"
@@ -21,82 +24,128 @@
         android:visibility="gone"
         tools:targetApi="lollipop" />
 
-
-    <LinearLayout
-        android:id="@+id/linear"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:background="@drawable/linear_bg"
-        android:orientation="vertical">
-
-        <SeekBar
-            android:id="@+id/music_seek_bar"
-            android:layout_width="match_parent"
-            android:layout_height="20dp"
-            android:max="100"
-            android:progressDrawable="@drawable/style_seek_bar" />
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:alpha="0.9">-->
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="#a6a3a3a3"
             android:orientation="horizontal">
 
-            <!--<Button-->
-            <!--android:id="@+id/btn_previous"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:text="@string/previous" />-->
-
             <ImageButton
-                android:padding="8dp"
+                android:padding="5dp"
+                android:id="@+id/img_song_icon"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
                 android:background="#00ffffff"
-                android:src="@drawable/iconfont_bofangqibofang"
-                android:id="@+id/btn_start_or_stop"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="left"
-                android:text="@string/start" />
-
-            <ImageButton
-                android:padding="8dp"
-                android:background="#00ffffff"
-                android:src="@drawable/iconfont_bofangqixiayiqu"
-                android:id="@+id/btn_next"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="left"
-                 />
-
+                android:scaleType="fitXY"
+                android:src="@drawable/icon_song" />
 
             <LinearLayout
-                android:gravity="right"
+
+                android:id="@+id/linear"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+
                 android:orientation="vertical">
 
-                <TextView
-                    android:id="@+id/txt_time"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/dont_know"
-                    android:textSize="15dp" />
+                <SeekBar
+                    android:id="@+id/music_seek_bar"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:indeterminate="false"
 
-                <TextView
-                    android:gravity="right"
-                    android:id="@+id/txt_about_songs"
+                    android:max="100" />
+
+                <!--android:progressDrawable="@drawable/style_seek_bar"-->
+
+                <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:ellipsize="marquee"
-                    android:focusable="true"
-                    android:focusableInTouchMode="true"
-                    android:singleLine="true"
-                    android:text="@string/dont_know"
-                    android:textSize="20dp" />
+                    android:orientation="horizontal">
+
+                    <!--<Button-->
+                    <!--android:id="@+id/btn_previous"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="@string/previous" />-->
+
+                    <ImageButton
+                        android:id="@+id/btn_start_or_stop"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:background="#00ffffff"
+                        android:padding="8dp"
+                        android:src="@drawable/iconfont_bofangqibofang"
+                        android:text="@string/start" />
+
+                    <ImageButton
+                        android:id="@+id/btn_next"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:background="#00ffffff"
+                        android:padding="8dp"
+                        android:src="@drawable/iconfont_bofangqixiayiqu" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/txt_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/dont_know"
+                            android:textSize="15dp" />
+
+
+                        <com.example.administrator.mymusicplayer.AlwaysMarqueeTextView
+                            android:id="@+id/txt_about_songs"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ellipsize="marquee"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:gravity="right"
+                            android:singleLine="true"
+                            android:text="@string/dont_know"
+                            android:textSize="20dp" />
+
+                        <!--<TextView-->
+                        <!--android:id="@+id/txt_about_songs"-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:ellipsize="marquee"-->
+                        <!--android:focusable="true"-->
+                        <!--android:focusableInTouchMode="true"-->
+                        <!--android:gravity="right"-->
+                        <!--android:singleLine="true"-->
+                        <!--android:text="@string/dont_know"-->
+                        <!--android:textSize="20dp" />-->
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
             </LinearLayout>
+
 
         </LinearLayout>
 
 
-    </LinearLayout>
-</RelativeLayout>
+    <!--</FrameLayout>-->
+
+</LinearLayout>

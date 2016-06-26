@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:text="章节练习"
+        android:id="@+id/unit_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="课程测试"
+        android:id="@+id/course_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="综合测试"
+        android:id="@+id/comlpex_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

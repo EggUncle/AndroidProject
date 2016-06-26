@@ -1,0 +1,822 @@
+[
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_loading_frame.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_contact_loading_frame.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_edit_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\user_profile_edit_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\online_people_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\online_people_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_contacts.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_edit_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\user_profile_edit_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_custom_dialog_list_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_custom_dialog_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\session_list.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\session_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\icon_list_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\icon_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\file_browser_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\file_browser_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\group_list_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\group_list_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_edittext_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\user_profile_edittext_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_system_notification_view_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\message_system_notification_view_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\online_people_fragment.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\online_people_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_team_member_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\video_call_peer_close_cameral.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\video_call_peer_close_cameral.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce_list_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_advanced_team_announce_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_audio.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_item_audio.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_read_recipt_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_read_recipt_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_birth_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\user_profile_birth_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_buddy.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\activity_add_buddy.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photo_grid_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_picker_photo_grid_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_snapchat_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_watch_snapchat_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_advanced_team_info_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_list.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\contacts_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\map_view_amap_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\map_view_amap_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_notification.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_item_notification.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_message_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_team_message_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_name_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_item_name_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\image_layout_multi_touch.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\image_layout_multi_touch.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_set_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\user_profile_set_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_surface_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\avchat_surface_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\chat_room_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_grid_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_team_member_grid_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_edit_text.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_easy_alert_dialog_with_edit_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\map_view_amap_navigation_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\map_view_amap_navigation_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\master_fragment.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\master_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_advanced_team_create_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_black_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_popup_menu_black_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\rts_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\rts_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\team_announcement_vp_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\team_announcement_vp_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_bottom_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_activity_bottom_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\black_list_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\black_list_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\no_disturb_footer.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\no_disturb_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_gender_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\user_profile_gender_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photofolder_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_picker_photofolder_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_multi_touch.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_preview_image_layout_multi_touch.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\edit_nick_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\edit_nick_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_divider_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_advanced_team_info_divider_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\multiport_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\multiport_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\global_search_result.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\global_search_result.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_member_info_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_advanced_team_member_info_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\system_notification_message_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\system_notification_message_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_capture_video_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_capture_video_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_count_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_contacts_count_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\no_disturb_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\no_disturb_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_emoji_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\add_friend_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\add_friend_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_search_list_view_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\message_search_list_view_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\map_view_google_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\map_view_google_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_round_loading_progress_bar.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_round_loading_progress_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\file_transfer_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\file_transfer_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\video_switch_audio_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\video_switch_audio_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_record_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\avchat_record_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout_main.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\tab_layout_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_listview.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_easy_alert_dialog_with_listview.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_custom_notification.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\item_custom_notification.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_search_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\message_search_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_tab.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\activity_main_tab.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_zoom_control.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_preview_image_layout_zoom_control.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_popup_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\action_bar_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\avchat_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_unknown.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_item_unknown.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_snapchat.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\nim_message_item_snapchat.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_nickname_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_advanced_team_nickname_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_search_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\nim_advanced_team_search_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_sticker_picker_view.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_sticker_picker_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\multiport_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\multiport_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_folder_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_picker_image_folder_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_contacts_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\func_contacts_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\func_contacts_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_thumb_progress_bar_text.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_item_thumb_progress_bar_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_video_center_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\avchat_video_center_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_select_area_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_contact_select_area_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_title.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_easy_alert_dialog_title.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_rts.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\nim_message_item_rts.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_history_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\message_history_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\amap_marker_window_info.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\amap_marker_window_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_text.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_item_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_fragment.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\chat_room_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_info_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\message_info_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_voice_trans_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_voice_trans_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_avchat.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\nim_message_item_avchat.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\user_profile_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_base.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\setting_item_base.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_emoji_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\team_announce_head_view.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\team_announce_head_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_text_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_activity_text_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_message_fragment.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\chat_room_message_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_refuse_receive_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\avchat_refuse_receive_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_tab_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\chat_room_tab_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_listview_refresh.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_listview_refresh.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_media_download_progress_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_watch_media_download_progress_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_audio_control_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\avchat_audio_control_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contact_list_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_recent_contact_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_zbra_loading_progress_bar.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_zbra_loading_progress_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_progress_dialog.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_easy_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_default_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_easy_alert_dialog_default_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_menu_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_team_info_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\chat_room_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_menu_dialog_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_camera_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_preview_image_from_camera_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_images_fragment.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_picker_images_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_toggle.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\setting_item_toggle.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_picture.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_item_picture.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_video.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_item_video.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_pick_image_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_pick_image_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_crop_image_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_crop_image_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\video_call_bottom_switch_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\video_call_bottom_switch_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_video_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_watch_video_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_search_empty_view.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\message_search_empty_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_contacts_select.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contacts.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_recent_contacts.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_tab.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\chat_room_tab.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_time_text_view_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_time_text_view_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_audio_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\avchat_audio_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_master_tab.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\chat_room_master_tab.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_picker_preview.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_action_bar_right_picker_preview.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_actions_item_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_actions_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_preview_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_picker_image_preview_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_contacts_select_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\settings_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_video_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\avchat_video_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_sticker.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\nim_message_item_sticker.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_rooms.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\chat_rooms.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\address_toast_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\address_toast_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\settings_logout_footer.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\settings_logout_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_people_tab.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\chat_room_people_tab.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_announce.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_advanced_team_create_announce.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\multiport_status_bar.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\multiport_status_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_text_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_contact_text_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\user_profile_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\black_list_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\black_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_actions_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_activity_actions_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_user_profile_toggle_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_user_profile_toggle_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_divider_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_team_info_divider_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\team_message_announce_dialog.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\team_message_announce_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_popup_menu_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_clickable_tv.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_action_bar_right_clickable_tv.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_message_tab.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\chat_room_message_tab.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\show_all_team_members_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\show_all_team_members_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_album_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_picker_album_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_custom_view.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_action_bar_custom_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_fragment.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_fragment_container.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\main_tab_fragment_container.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_location.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_message_item_location.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_picture_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_watch_picture_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_new_message_tip_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_new_message_tip_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_advanced_team_announce.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\network_status_bar.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\network_status_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_signature_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\user_profile_signature_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_join_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\nim_advanced_team_join_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\swipeback_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\swipeback_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_black_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_popup_menu_list_black_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\file_browser_list_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\file_browser_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_file.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\nim_message_item_file.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_local_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_preview_image_from_local_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_abc_item.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_contacts_abc_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\about_layout.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\about_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_bottom_button.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_easy_alert_dialog_bottom_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_name_activity.xml",
+        "source": "F:\\AndroidProject\\MyTest\\demo\\build\\intermediates\\exploded-aar\\MyTest\\uikit\\unspecified\\res\\layout\\nim_team_name_activity.xml"
+    }
+]
