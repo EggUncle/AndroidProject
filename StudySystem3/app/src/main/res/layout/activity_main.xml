@@ -18,7 +18,7 @@
 
 
 
-        <uncle.egg.studysystem3.ChangeColorIconWithText
+        <uncle.egg.studysystem3.model.ChangeColorIconWithText
             android:id="@+id/id_indicator_one"
             android:layout_width="0dp"
             android:layout_height="fill_parent"
@@ -29,7 +29,7 @@
             hyman:text_size="12sp"
             hyman:my_color="@color/colorPrimary" />
 
-        <uncle.egg.studysystem3.ChangeColorIconWithText
+        <uncle.egg.studysystem3.model.ChangeColorIconWithText
             android:id="@+id/id_indicator_two"
             android:layout_width="0dp"
             android:layout_height="fill_parent"
@@ -40,18 +40,18 @@
             hyman:text_size="12sp"
             hyman:my_color="@color/colorPrimary" />
 
-        <uncle.egg.studysystem3.ChangeColorIconWithText
+        <uncle.egg.studysystem3.model.ChangeColorIconWithText
             android:id="@+id/id_indicator_three"
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
             android:padding="5dp"
-            hyman:my_icon="@drawable/error"
+            hyman:my_icon="@drawable/commicate"
             hyman:text="@string/tab_found"
             hyman:text_size="12sp"
             hyman:my_color="@color/colorPrimary"/>
 
-        <uncle.egg.studysystem3.ChangeColorIconWithText
+        <uncle.egg.studysystem3.model.ChangeColorIconWithText
             android:id="@+id/id_indicator_four"
             android:layout_width="0dp"
             android:layout_height="fill_parent"

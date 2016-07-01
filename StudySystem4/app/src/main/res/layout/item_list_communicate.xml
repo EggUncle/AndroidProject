@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <uncle.egg.studysystem4.model.CircleImageView
+            android:id="@+id/img_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="5dp">
+
+            <TextView
+                android:id="@+id/txt_other_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="other_name"
+                android:textSize="20sp" />
+
+
+            <TextView
+                android:id="@+id/txt_other_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="other_time"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txt_other_communicate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="动态内容"
+        android:textSize="15dp" />
+
+
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:orientation="horizontal"
+        android:paddingRight="20dp"
+        android:paddingBottom="20dp"
+        >
+
+        <ImageButton
+
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="#00ffffff"
+            android:scaleType="fitXY"
+            android:src="@drawable/like" />
+
+        <View
+            android:layout_width="5dp"
+            android:layout_height="5dp" />
+
+        <ImageButton
+
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="#00ffffff"
+            android:scaleType="fitXY"
+            android:src="@drawable/comment" />
+    </LinearLayout>
+</LinearLayout>

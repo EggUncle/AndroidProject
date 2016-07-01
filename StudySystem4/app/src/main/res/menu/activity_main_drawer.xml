@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/simple_select"
+            android:icon="@drawable/icon_simple"
+            android:title="单项选择" />
+        <item
+            android:id="@+id/exam"
+            android:icon="@drawable/exam"
+            android:title="模拟考试" />
+        <item
+            android:id="@+id/study"
+            android:icon="@drawable/study"
+            android:title="学习篇" />
+        <item
+            android:id="@+id/errors"
+            android:icon="@drawable/errors"
+            android:title="错题集" />
+        <item
+            android:id="@+id/communicate"
+            android:icon="@drawable/communicate"
+            android:title="交流互动" />
+        <item
+            android:id="@+id/admin"
+            android:icon="@drawable/admin"
+            android:title="管理员登录" />
+    </group>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

@@ -1,19 +1,17 @@
 package uncle.egg.studysystem3.myFragment;
 
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import uncle.egg.studysystem3.CourseListActivity;
 import uncle.egg.studysystem3.R;
-import uncle.egg.studysystem3.myClass.MyButton;
+import uncle.egg.studysystem3.model.MyButton;
 
 /**
- * Created by 西域战神阿凡提 on 2016/1/19.
+ * Created by 西域战神阿凡提 on 2016/6/19.
  */
 public class FirstFragment extends Fragment {
 
@@ -30,7 +28,7 @@ public class FirstFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 //        TextView textView = new TextView(getActivity());
 //        textView.setText("first");
-        view = inflater.inflate(R.layout.firstlayout, null);
+        view = inflater.inflate(R.layout.first_layout, null);
         init();
 
 

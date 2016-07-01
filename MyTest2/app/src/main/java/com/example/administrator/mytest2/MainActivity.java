@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         btn_xml = (Button) findViewById(R.id.btn_xml);
 
+
+
         btn_xml.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

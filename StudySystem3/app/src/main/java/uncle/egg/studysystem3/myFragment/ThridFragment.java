@@ -1,12 +1,13 @@
 package uncle.egg.studysystem3.myFragment;
 
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -14,7 +15,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.zip.Inflater;
 
 import uncle.egg.studysystem3.R;
 
@@ -23,10 +23,14 @@ import uncle.egg.studysystem3.R;
  */
 public class ThridFragment extends Fragment {
 
-    private ListView lsError;
+    private ListView lsCommunicate;
     private View view;
 
     private String[] strCourseNames = {"数据结构", "数据库", "移动网络", "软件工程", "软件测试", "计算机系统", "前端开发", "移动应用"};
+    private String[] strName = {"明同学", "张同学", "刘同学", "周同学", "李同学"};
+    private String[] strTime = {"10:10", "11:12", "11:30", "11:50", "12:16"};
+    private String[] strCommunicate = {"交流分享内容1", "交流分享内容2", "交流分享内容3", "交流分享内容4", "交流分享内容5"};
+    private int[] imgIcon = {R.drawable.batmen, R.drawable.black, R.drawable.blue, R.drawable.cat, R.drawable.double_girl};
     private List<Map<String, Object>> listData;
     private Map map;
 
@@ -34,24 +38,27 @@ public class ThridFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        view = inflater.inflate(R.layout.thridlayout, null);
+        view = inflater.inflate(R.layout.thrid_layout, null);
         init();
         return view;
     }
 
     private void init() {
-        lsError = (ListView) view.findViewById(R.id.ls_error);
+        lsCommunicate = (ListView) view.findViewById(R.id.ls_communicate);
         listData = new ArrayList<>();
         myListAdapter = new MyListAdapter();
 
-        for (int i = 0; i < strCourseNames.length; i++) {
+        for (int i = 0; i < strName.length; i++) {
             map = null;
             map = new HashMap();
-            map.put("courseName", strCourseNames[i]);
+            map.put("strName", strName[i]);
+            map.put("strTime", strTime[i]);
+            map.put("strCommunicate", strCommunicate[i]);
+            map.put("imgIcon", imgIcon[i]);
             listData.add(map);
         }
 
-        lsError.setAdapter(myListAdapter);
+        lsCommunicate.setAdapter(myListAdapter);
 
     }
 
@@ -78,21 +85,29 @@ public class ThridFragment extends Fragment {
             ViewHolder viewHolder;
             if (convertView == null) {
                 viewHolder = new ViewHolder();
-                convertView = getActivity().getLayoutInflater().inflate(R.layout.error_list_item,null);
-                viewHolder.txtItemName = (TextView) convertView.findViewById(R.id.txt_item_name);
-                viewHolder.txtNumberError = (TextView) convertView.findViewById(R.id.txt_number_error);
+                convertView = getActivity().getLayoutInflater().inflate(R.layout.item_list_communicate, null);
+                viewHolder.imgIcon = (ImageView) convertView.findViewById(R.id.img_icon);
+                viewHolder.txtOtherName = (TextView) convertView.findViewById(R.id.txt_other_name);
+                viewHolder.txtOtherTime = (TextView) convertView.findViewById(R.id.txt_other_time);
+                viewHolder.txtOtherCommunicate = (TextView) convertView.findViewById(R.id.txt_other_communicate);
                 convertView.setTag(viewHolder);
-            }else{
+            } else {
                 viewHolder = (ViewHolder) convertView.getTag();
             }
-            viewHolder.txtItemName.setText(listData.get(position).get("courseName").toString());
+
+            viewHolder.imgIcon.setImageResource((Integer) listData.get(position).get("imgIcon"));
+            viewHolder.txtOtherCommunicate.setText(listData.get(position).get("strCommunicate").toString());
+            viewHolder.txtOtherName.setText(listData.get(position).get("strName").toString());
+            viewHolder.txtOtherTime.setText(listData.get(position).get("strTime").toString());
 
             return convertView;
         }
 
         private class ViewHolder {
-            TextView txtItemName;
-            TextView txtNumberError;
+            ImageView imgIcon;
+            TextView txtOtherName;
+            TextView txtOtherTime;
+            TextView txtOtherCommunicate;
         }
     }
 

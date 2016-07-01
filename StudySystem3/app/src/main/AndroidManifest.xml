@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:label="学习系统"
             android:windowSoftInputMode="adjustNothing">
             <intent-filter>
@@ -19,9 +19,20 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".UnityTestActivity"
-            android:parentActivityName=".MainActivity" />
-        <activity android:name=".CourseListActivity"   android:parentActivityName=".MainActivity"></activity>
+            android:name=".activity.UnityTestActivity"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.CourseListActivity"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.ErrorCollectionActivity"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.LoginActivity"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.AdminActivity"
+            android:parentActivityName=".activity.MainActivity" />
     </application>
 
 </manifest>
