@@ -34,6 +34,12 @@
         <activity
             android:name=".activity.AdminActivity"
             android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.LearnActivity"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.ExamActivity"
+            android:parentActivityName=".activity.MainActivity"></activity>
     </application>
 
 </manifest>

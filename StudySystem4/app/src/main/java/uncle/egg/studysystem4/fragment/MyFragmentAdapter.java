@@ -20,7 +20,7 @@ public class MyFragmentAdapter extends FragmentPagerAdapter {
     }
 
     private void init() {
-        fragments[0] = new FirstFragment();
+        fragments[0] = new StudyFragment();
         fragments[1] = new SecondFragment();
         fragments[2] = new CommunicateFragment();
         fragments[3] = new FourthFragment();

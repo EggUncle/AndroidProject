@@ -1,124 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:padding="10dp">
+    android:layout_height="match_parent">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/txt_now_point"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="第五章--概要设计（1/20）"
+                android:textSize="17dp" />
+
+            <!--<Button-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:background="@drawable/bg_btn2"-->
+                <!--android:text="答题卡" />-->
+        </LinearLayout>
+
 
         <TextView
-            android:id="@+id/txt_now_point"
-            android:layout_width="wrap_content"
+            android:id="@+id/txt_question"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="第五章--概要设计（1/20）"
+            android:paddingTop="20dp"
+            android:text="程序流程图中带有箭头的线段表示的是（ ）"
+            android:textColor="#000000"
             android:textSize="17dp" />
 
-        <Button
-            android:layout_width="wrap_content"
+
+        <RadioGroup
+            android:id="@+id/rg_abcd"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@drawable/bg_btn2"
-            android:text="答题卡" />
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:paddingLeft="20dp"
+            android:paddingTop="50dp"
+            android:textSize="25dp">
+
+            <RadioButton
+                android:id="@+id/btn_a"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dp"
+                android:paddingTop="20dp"
+                android:text="A.图元关系"
+                android:textSize="17dp" />
+
+            <RadioButton
+                android:id="@+id/btn_b"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dp"
+                android:paddingTop="20dp"
+                android:text="B.数据流"
+                android:textSize="17dp" />
+
+            <RadioButton
+                android:id="@+id/btn_c"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dp"
+                android:paddingTop="20dp"
+                android:text="C.控制流"
+                android:textSize="17dp" />
+
+            <RadioButton
+                android:id="@+id/btn_d"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dp"
+                android:paddingTop="20dp"
+                android:text="D.调用关系"
+                android:textSize="17dp" />
+        </RadioGroup>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+
+                android:id="@+id/btn_previous"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn2"
+                android:text="上一题" />
+
+            <View
+                android:layout_width="3dp"
+                android:layout_height="1dp" />
+
+            <Button
+                android:id="@+id/btn_upload"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn2"
+                android:text="解析" />
+
+            <View
+                android:layout_width="3dp"
+                android:layout_height="1dp" />
+
+            <Button
+                android:id="@+id/btn_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn2"
+                android:text="下一题" />
+
+        </LinearLayout>
     </LinearLayout>
-
-
-    <TextView
-        android:id="@+id/txt_question"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:paddingTop="20dp"
-        android:text="程序流程图中带有箭头的线段表示的是（ ）"
-        android:textColor="#000000"
-        android:textSize="17dp" />
-
-
-    <RadioGroup
-        android:id="@+id/rg_abcd"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_vertical"
-        android:layout_weight="1"
-        android:orientation="vertical"
-        android:paddingLeft="20dp"
-        android:paddingTop="50dp"
-        android:textSize="25dp">
-
-        <RadioButton
-            android:id="@+id/btn_a"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:paddingBottom="20dp"
-            android:paddingTop="20dp"
-            android:text="A.图元关系"
-            android:textSize="17dp" />
-
-        <RadioButton
-            android:id="@+id/btn_b"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:paddingBottom="20dp"
-            android:paddingTop="20dp"
-            android:text="B.数据流"
-            android:textSize="17dp" />
-
-        <RadioButton
-            android:id="@+id/btn_c"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:paddingBottom="20dp"
-            android:paddingTop="20dp"
-            android:text="C.控制流"
-            android:textSize="17dp" />
-
-        <RadioButton
-            android:id="@+id/btn_d"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:paddingBottom="20dp"
-            android:paddingTop="20dp"
-            android:text="D.调用关系"
-            android:textSize="17dp" />
-    </RadioGroup>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-
-        <Button
-
-            android:id="@+id/btn_previous"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="@drawable/bg_btn2"
-            android:text="上一题" />
-
-        <View
-            android:layout_width="3dp"
-            android:layout_height="1dp"/>
-
-        <Button
-            android:id="@+id/btn_upload"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="@drawable/bg_btn2"
-            android:text="交卷" />
-        <View
-            android:layout_width="3dp"
-            android:layout_height="1dp"/>
-        <Button
-            android:id="@+id/btn_next"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="@drawable/bg_btn2"
-            android:text="下一题" />
-
-    </LinearLayout>
-</LinearLayout>
+</RelativeLayout>

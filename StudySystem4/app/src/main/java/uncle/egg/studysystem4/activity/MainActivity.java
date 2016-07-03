@@ -12,10 +12,15 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import uncle.egg.studysystem4.R;
-import uncle.egg.studysystem4.fragment.FirstFragment;
+import uncle.egg.studysystem4.fragment.AdminFragment;
+import uncle.egg.studysystem4.fragment.ErrorsFragment;
+import uncle.egg.studysystem4.fragment.ExamFragment;
+import uncle.egg.studysystem4.fragment.SimpleFragment;
+import uncle.egg.studysystem4.fragment.StudyFragment;
 import uncle.egg.studysystem4.fragment.FourthFragment;
 import uncle.egg.studysystem4.fragment.SecondFragment;
 import uncle.egg.studysystem4.fragment.CommunicateFragment;
@@ -23,15 +28,19 @@ import uncle.egg.studysystem4.fragment.CommunicateFragment;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-    private TextView txtWelcome;
+    private ImageView imgWelcome;
     private FragmentManager fm;
     private FragmentTransaction transaction;
 
-    private FirstFragment firstFragment;
+    private StudyFragment studyFragment;
     private SecondFragment secondFragment;
     private CommunicateFragment communicateFragment;
     private FourthFragment fourthFragment;
 
+    private ErrorsFragment errorsFragment;
+    private AdminFragment adminFragment;
+    private SimpleFragment simpleFragment;
+    private ExamFragment examFragment;
 
 
     @Override
@@ -40,7 +49,7 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
+        setTitle("欢迎来到考试系统");
 //        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
 //        fab.setOnClickListener(new View.OnClickListener() {
 //            @Override
@@ -62,13 +71,17 @@ public class MainActivity extends AppCompatActivity
     }
 
     private void init() {
-        txtWelcome = (TextView) findViewById(R.id.txt_welcome);
+        imgWelcome = (ImageView) findViewById(R.id.img_welcome);
         fm = getSupportFragmentManager();
         transaction = fm.beginTransaction();
-        firstFragment = new FirstFragment();
+        studyFragment = new StudyFragment();
         secondFragment = new SecondFragment();
         communicateFragment = new CommunicateFragment();
         fourthFragment = new FourthFragment();
+        errorsFragment = new ErrorsFragment();
+        adminFragment = new AdminFragment();
+        simpleFragment  = new SimpleFragment();
+        examFragment  = new ExamFragment();
     }
 
     @Override
@@ -109,41 +122,48 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-//        FirstFragment firstFragment = new FirstFragment();
-//        transaction.add(firstFragment,null);
-//        transaction.commit();
+
 
         if (id == R.id.simple_select) {
             //   Toast.makeText(this,"test",Toast.LENGTH_SHORT).show();
             // Handle the camera action
 
-
-
             transaction = fm.beginTransaction();
-            transaction.replace(R.id.fragment, firstFragment);
+            transaction.replace(R.id.fragment, simpleFragment);
             transaction.commit();
+            setTitle("单项选择");
+
 
 
         } else if (id == R.id.exam) {
             transaction = fm.beginTransaction();
-            transaction.replace(R.id.fragment, secondFragment);
+            transaction.replace(R.id.fragment, examFragment);
             transaction.commit();
+            setTitle("模拟考试");
         } else if (id == R.id.study) {
-
+            transaction = fm.beginTransaction();
+            transaction.replace(R.id.fragment, studyFragment);
+            transaction.commit();
+            setTitle("学习篇");
         } else if (id == R.id.errors) {
             transaction = fm.beginTransaction();
-            transaction.replace(R.id.fragment, fourthFragment);
+            transaction.replace(R.id.fragment, errorsFragment);
             transaction.commit();
+            setTitle("错题集");
         } else if (id == R.id.communicate) {
             transaction = fm.beginTransaction();
             transaction.replace(R.id.fragment, communicateFragment);
             transaction.commit();
+            setTitle("交流互动");
         } else if (id == R.id.admin) {
-
+            transaction = fm.beginTransaction();
+            transaction.replace(R.id.fragment, adminFragment);
+            transaction.commit();
+            setTitle("管理员登录");
         }
 
-        if (txtWelcome.getVisibility() != View.GONE) {
-            txtWelcome.setVisibility(View.GONE);
+        if (imgWelcome.getVisibility() != View.GONE) {
+            imgWelcome.setVisibility(View.GONE);
         }
 
 
