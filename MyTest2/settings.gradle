@@ -1,1 +1,1 @@
-include ':app', ':httptest', ':answerquestion', ':silenceinstall', ':listviewfresh'
+include ':app', ':httptest', ':answerquestion', ':silenceinstall', ':listviewfresh', ':wifitest', ':wifitest'
