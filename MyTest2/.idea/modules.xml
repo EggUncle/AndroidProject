@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/httptest/httptest.iml" filepath="$PROJECT_DIR$/httptest/httptest.iml" />
       <module fileurl="file://$PROJECT_DIR$/listviewfresh/listviewfresh.iml" filepath="$PROJECT_DIR$/listviewfresh/listviewfresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/silenceinstall/silenceinstall.iml" filepath="$PROJECT_DIR$/silenceinstall/silenceinstall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volleytest/volleytest.iml" filepath="$PROJECT_DIR$/volleytest/volleytest.iml" />
       <module fileurl="file://$PROJECT_DIR$/wifitest/wifitest.iml" filepath="$PROJECT_DIR$/wifitest/wifitest.iml" />
     </modules>
   </component>
