@@ -37,8 +37,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         text = (TextView) findViewById(R.id.text);
         img = (ImageView) findViewById(R.id.img);
-        //     volley_Get();
-        getImage();
+            volley_Get();
+    //    getImage();
     }
 
 
@@ -72,7 +72,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void volley_Get() {
-        String url = "http://gank.io/api/history/content/2/1";
+     //   String url = "http://gank.io/api/history/content/2/1";
+        String url = "http://gank.io/api/search/query/listview/category/Android/count/10/page/1";
 //        StringRequest request = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
 //            @Override
 //            public void onResponse(String s) {
@@ -99,8 +100,8 @@ public class MainActivity extends AppCompatActivity {
                         JSONArray catName;
                         try {
                             catName = jsonObject.getJSONArray("results");
-                            String s = catName.optJSONObject(1).get("title").toString();
-                            String tel = jsonObject.optString("title");
+                            String s = catName.optJSONObject(1).get("desc").toString();
+                            String tel =catName.optJSONObject(1).get("type").toString();
                             text.setText(s + " " + tel);
                         } catch (JSONException e) {
                             e.printStackTrace();
