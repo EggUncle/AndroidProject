@@ -12,6 +12,10 @@
         android:color="@color/colorPrimary"
         />
 
+    <gradient android:startColor="@android:color/white"
+        android:endColor="@android:color/white"
+        />
+
     <!--<gradient-->
     <!--android:startColor="@color/colorPrimary"-->
     <!--android:endColor="@color/colorPrimary"-->
