@@ -1,8 +1,11 @@
 package uncle.egg.studysystem4.activity;
 
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.view.KeyEvent;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -14,6 +17,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import uncle.egg.studysystem4.R;
 import uncle.egg.studysystem4.fragment.AdminFragment;
@@ -41,6 +45,8 @@ public class MainActivity extends AppCompatActivity
     private AdminFragment adminFragment;
     private SimpleFragment simpleFragment;
     private ExamFragment examFragment;
+
+    private boolean isQuit;
 
 
     @Override
@@ -147,7 +153,7 @@ public class MainActivity extends AppCompatActivity
             setTitle("学习篇");
         } else if (id == R.id.errors) {
             transaction = fm.beginTransaction();
-            transaction.replace(R.id.fragment, errorsFragment);
+            transaction.replace(R.id.fragment, simpleFragment);
             transaction.commit();
             setTitle("错题集");
         } else if (id == R.id.communicate) {
@@ -171,5 +177,30 @@ public class MainActivity extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+
+    Handler mHandler = new Handler() {
+        @Override
+        public void handleMessage(Message msg) {
+            super.handleMessage(msg);
+            isQuit = false;
+        }
+    };
+
+    @Override
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
+        if (keyCode == KeyEvent.KEYCODE_BACK) {
+            if (!isQuit) {
+                isQuit = true;
+                Toast.makeText(getApplicationContext(), "再按一次退出程序",
+                        Toast.LENGTH_SHORT).show();
+                // 利用handler延迟发送更改状态信息
+                mHandler.sendEmptyMessageDelayed(0, 2000);
+            } else {
+                finish();
+                System.exit(0);
+            }
+        }
+        return false;
     }
 }

@@ -1,8 +1,9 @@
 package uncle.egg.studysystem4.activity;
 
-import android.support.v7.app.AppCompatActivity;
+import android.content.Intent;
 import android.os.Bundle;
-import android.widget.Button;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
 
 import uncle.egg.studysystem4.R;
 import uncle.egg.studysystem4.model.MyButton;
@@ -13,13 +14,14 @@ public class LearnActivity extends AppCompatActivity {
     private MyButton[] btnMyButtons;
 
     private String[] strCouresNames = {"数据结构", "数据库", "移动网络", "软件工程", "软件测试", "计算机系统", "前端开发", "移动应用", "更多"};
-
+    private String type;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.study_layout);
         setTitle("学习篇");
+        type = getIntent().getStringExtra("type");
         init();
     }
 
@@ -45,6 +47,21 @@ public class LearnActivity extends AppCompatActivity {
 
         }
 
+        btnMy1.getBtn().setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                if ("video".equals(type)) {
+                    Intent intent = new Intent(LearnActivity.this, VideoPlayerActivity.class);
+                    intent.putExtra("type", type);
+                    startActivity(intent);
+                } else {
+                    Intent intent = new Intent(LearnActivity.this, CourseListActivity.class);
+                    intent.putExtra("type", type);
+                    startActivity(intent);
+                }
+            }
+        });
 
     }
 }

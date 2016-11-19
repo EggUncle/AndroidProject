@@ -28,13 +28,17 @@ public class MyButton extends LinearLayout {
         LayoutInflater.from(context).inflate(R.layout.btn_layout, this);
         btn = (Button) findViewById(R.id.btn);
         txt = (TextView) findViewById(R.id.txt);
-        btn.setOnClickListener(new OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(getContext(), CourseListActivity.class);
-                getContext().startActivity(intent);
-            }
-        });
+//        btn.setOnClickListener(new OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent intent = new Intent(getContext(), CourseListActivity.class);
+//                getContext().startActivity(intent);
+//            }
+//        });
+    }
+
+    public Button getBtn(){
+        return btn;
     }
 
     public void setMyButtonTxt(String str) {

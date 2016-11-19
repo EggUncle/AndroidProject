@@ -106,13 +106,13 @@
                 android:layout_width="3dp"
                 android:layout_height="1dp" />
 
-            <Button
-                android:id="@+id/btn_upload"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:background="@drawable/bg_btn2"
-                android:text="解析" />
+            <!--<Button-->
+                <!--android:id="@+id/btn_upload"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:background="@drawable/bg_btn2"-->
+                <!--android:text="解析" />-->
 
             <View
                 android:layout_width="3dp"

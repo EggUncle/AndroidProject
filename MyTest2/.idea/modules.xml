@@ -9,10 +9,16 @@
       <module fileurl="file://$PROJECT_DIR$/httptest/httptest.iml" filepath="$PROJECT_DIR$/httptest/httptest.iml" />
       <module fileurl="file://$PROJECT_DIR$/listviewfresh/listviewfresh.iml" filepath="$PROJECT_DIR$/listviewfresh/listviewfresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/mtest1/mtest1.iml" filepath="$PROJECT_DIR$/mtest1/mtest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myimageviewtest/myimageviewtest.iml" filepath="$PROJECT_DIR$/myimageviewtest/myimageviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oatest/oatest.iml" filepath="$PROJECT_DIR$/oatest/oatest.iml" />
       <module fileurl="file://$PROJECT_DIR$/refusesms/refusesms.iml" filepath="$PROJECT_DIR$/refusesms/refusesms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpreferencestest/sharedpreferencestest.iml" filepath="$PROJECT_DIR$/sharedpreferencestest/sharedpreferencestest.iml" />
       <module fileurl="file://$PROJECT_DIR$/silenceinstall/silenceinstall.iml" filepath="$PROJECT_DIR$/silenceinstall/silenceinstall.iml" />
       <module fileurl="file://$PROJECT_DIR$/volleytest/volleytest.iml" filepath="$PROJECT_DIR$/volleytest/volleytest.iml" />
       <module fileurl="file://$PROJECT_DIR$/wifitest/wifitest.iml" filepath="$PROJECT_DIR$/wifitest/wifitest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutilsdownloadtest/xutilsdownloadtest.iml" filepath="$PROJECT_DIR$/xutilsdownloadtest/xutilsdownloadtest.iml" />
     </modules>
   </component>
 </project>

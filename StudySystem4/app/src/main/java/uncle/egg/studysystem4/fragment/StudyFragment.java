@@ -78,18 +78,26 @@ public class StudyFragment extends Fragment {
         public void onClick(View v) {
             switch (v.getId()) {
                 case R.id.btn_learn_course: {
+                    Intent intent = new Intent(getActivity(), LearnActivity.class);
+                    intent.putExtra("type","doc");
+                    startActivity(intent);
                 }
                 break;
                 case R.id.btn_learn_ppt: {
+                    Intent intent = new Intent(getActivity(), LearnActivity.class);
+                    intent.putExtra("type","ppt");
+                    startActivity(intent);
                 }
                 break;
                 case R.id.btn_learn_video: {
+                    Intent intent = new Intent(getActivity(), LearnActivity.class);
+                    intent.putExtra("type","video");
+                    startActivity(intent);
                 }
                 break;
             }
 
-            Intent intent = new Intent(getActivity(), LearnActivity.class);
-            startActivity(intent);
+
         }
     }
 

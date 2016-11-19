@@ -19,11 +19,11 @@
             android:text="第五章--概要设计（1/20）"
             android:textSize="17dp" />
 
-        <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@drawable/bg_btn2"
-        android:text="答题卡" />
+        <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@drawable/bg_btn2"-->
+        <!--android:text="答题卡" />-->
     </LinearLayout>
 
 
@@ -103,13 +103,13 @@
             android:layout_width="3dp"
             android:layout_height="1dp" />
 
-        <Button
-            android:id="@+id/btn_upload"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="@drawable/bg_btn2"
-            android:text="交卷" />
+        <!--<Button-->
+            <!--android:id="@+id/btn_upload"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:background="@drawable/bg_btn2"-->
+            <!--android:text="交卷" />-->
 
         <View
             android:layout_width="3dp"
