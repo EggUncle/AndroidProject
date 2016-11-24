@@ -26,27 +26,7 @@
             <option value="$PROJECT_DIR$/xutilsdownloadtest" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/answerquestion" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/htmltext" />
-            <option value="$PROJECT_DIR$/httptest" />
-            <option value="$PROJECT_DIR$/listviewfresh" />
-            <option value="$PROJECT_DIR$/mtest1" />
-            <option value="$PROJECT_DIR$/myapplication" />
-            <option value="$PROJECT_DIR$/myapplication2" />
-            <option value="$PROJECT_DIR$/myimageviewtest" />
-            <option value="$PROJECT_DIR$/oatest" />
-            <option value="$PROJECT_DIR$/refusesms" />
-            <option value="$PROJECT_DIR$/sharedpreferencestest" />
-            <option value="$PROJECT_DIR$/silenceinstall" />
-            <option value="$PROJECT_DIR$/volleytest" />
-            <option value="$PROJECT_DIR$/wifitest" />
-            <option value="$PROJECT_DIR$/xutilsdownloadtest" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

@@ -22,9 +22,6 @@ public class Main2Activity extends AppCompatActivity {
     private ImageView img2;
     private ImageView img3;
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -44,14 +41,13 @@ public class Main2Activity extends AppCompatActivity {
             public void onClick(View view) {
                 Observable.from(filePaths)
                         .map(new Func1<String, Bitmap>() {
-
                             @Override
                             public Bitmap call(String s) {
                                 return BitmapFactory.decodeFile(s);
                             }
                         })
-                        .subscribeOn(Schedulers.io())
-                        .observeOn(AndroidSchedulers.mainThread())
+//                        .subscribeOn(Schedulers.io())
+//                        .observeOn(AndroidSchedulers.mainThread())
                         .subscribe(new Observer<Bitmap>() {
                             @Override
                             public void onCompleted() {

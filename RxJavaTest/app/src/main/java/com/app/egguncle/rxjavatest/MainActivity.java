@@ -152,10 +152,12 @@ public class MainActivity extends AppCompatActivity {
                 .subscribe(new Action1<Integer>() {
                     @Override
                     public void call(Integer integer) {
-                        Log.d(TAG, integer + "");    //主线程
+                        Log.d(TAG, integer + "");
                     }
                 });
 
+
+//
 //        int drawableRes = ...;
 //        ImageView imageView = ...;
 //        Observable.create(new Observable.OnSubscribe<Drawable>() {
